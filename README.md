@@ -1,10 +1,10 @@
 # POOLBOY-V5
 </br>
 
-<a href="https://ameenrepo.github.io/View-/KEIKO55.png"><img src="https://readme-typing-svg.demolab.com?font=bold&size=55&pause=1000&color=red&center=true&width=910&height=100&lines=I'M+KEIKO-V5;MULTI+FUNCTIONAL;WHATSAPP+BOT;MADE+WITH+LOVE🦋;CODED+BY+AMEEN-XNT" alt="Typing SVG" /></a>
+<a href="https://ameenrepo.github.io/View-/KEIKO55.png"><img src="https://readme-typing-svg.demolab.com?font=bold&size=55&pause=1000&color=red&center=true&width=910&height=100&lines=I'M+POOLBOY-V5;MULTI+FUNCTIONAL;WHATSAPP+BOT;MADE+WITH+LOVE🦋;CODED+BY+MRBOSS002" alt="Typing SVG" /></a>
   
 <p align="center">  
-  <a href="https://wa.me/+916238768108?text=HEY+VRO+BIG+FAN+VRO😝">
+  <a href="https://wa.me/+918943146371?text=HEY+VRO+BIG+FAN+VRO😝">
     <img alt=AMEEN-SER height="250" src="https://ameenrepo.github.io/View-/KEIKO5.png" width="250">
    
 </a> 
@@ -52,7 +52,7 @@
 | MODE | mode public or private |
 | autoRead | make it true if you want bot to read messages |
 | statusview | make it true if you want bot to view status | 
-| OWNERS | owner number(916238768108;AmeenInt) | 
+| OWNERS | owner number(918943146371;MrBoss002) | 
 | BOTNAME | Your Bot Name | 
 | antidelete | bot will forward deleted messages if you make it true | 
 
@@ -75,8 +75,8 @@
 <a href='https://instagram.com/mr.z_ninja' target="_blank"><img alt='AMEEN-SER' src='https://img.shields.io/badge/-AMEEN_INT-white?style=for-the-badge&logo=instagram&logoColor=pink'/></a>
 <br>
 
-<a href='https://wa.me/916238768108?text=Hey🌠!+Want+Help' target="_blank"><img alt='AMEEN-SER' src='https://img.shields.io/badge/-AMEEN_INT-white?style=for-the-badge&logo=whatsapp&logoColor=green'/></a>
+<a href='https://wa.me/918943146371?text=Hey🌠!+Want+Help' target="_blank"><img alt='AMEEN-SER' src='https://img.shields.io/badge/-AMEEN_INT-white?style=for-the-badge&logo=whatsapp&logoColor=green'/></a>
 <br>
 
-<a href='https://github.com/AmeenRepo' target="_blank"><img alt='AMEEN-SER' src='https://img.shields.io/badge/-AMEEN_INT-white?style=for-the-badge&logo=github&logoColor=black'/></a>
+<a href='https://github.com/MrBoss002' target="_blank"><img alt='MrBoss002' src='https://img.shields.io/badge/-AMEEN_INT-white?style=for-the-badge&logo=github&logoColor=black'/></a>
 <br>
