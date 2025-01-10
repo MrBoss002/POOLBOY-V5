@@ -75,7 +75,7 @@
 <a href='https://instagram.com/mrboss002_' target="_blank"><img alt='MrBoss002' src='https://img.shields.io/badge/-MrBoss002-white?style=for-the-badge&logo=instagram&logoColor=pink'/></a>
 <br>
 
-<a href='https://wa.me/918943146371?text=Hey🌠!+Want+Help' target="_blank"><img alt='MrBoss002' src='https://img.shields.io/badge/-AMEEN_INT-white?style=for-the-badge&logo=whatsapp&logoColor=green'/></a>
+<a href='https://wa.me/918943146371?text=Hey🌠!+Want+Help' target="_blank"><img alt='MrBoss002' src='https://img.shields.io/badge/-MrBoss002-white?style=for-the-badge&logo=whatsapp&logoColor=green'/></a>
 <br>
 
 <a href='https://github.com/MrBoss002' target="_blank"><img alt='MrBoss002' src='https://img.shields.io/badge/-MrBoss002-white?style=for-the-badge&logo=github&logoColor=black'/></a>
