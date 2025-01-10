@@ -5,7 +5,7 @@
   
 <p align="center">  
   <a href="https://wa.me/+918943146371?text=HEY+VRO+BIG+FAN+VRO😝">
-    <img alt=AMEEN-SER height="250" src="https://ameenrepo.github.io/View-/KEIKO5.png" width="250">
+    <img alt=MrBoss002 height="250" src="https://mrboss002.github.io/View-/KEIKO5.png" width="250">
    
 </a> 
 
@@ -17,7 +17,7 @@
 
 1. Fork the repo
     <br>
-<a href='https://github.com/AmeenRepo/KEIKO-V5/fork' target="_blank"><img alt='FORK KEIKO' src='https://img.shields.io/badge/Fork Repo-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
+<a href='https://github.com/mrboss002/POOLBOY-V5/fork' target="_blank"><img alt='FORK KEIKO' src='https://img.shields.io/badge/Fork Repo-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
 
 
 
@@ -36,7 +36,7 @@
 2. Now Deploy
    <br>
  <div align="center">
-  <a href="https://heroku.com/deploy?template=https://github.com/AmeenRepo/KEIKO-V5">
+  <a href="https://heroku.com/deploy?template=https://github.com/MrBoss002/POOLBOY-V5">
     <img src="https://www.herokucdn.com/deploy/button.svg" alt="DEPLOY TO HEROKU">
   </a>
 </div>
@@ -72,11 +72,11 @@
   
 #### For Help To Visit Here
 
-<a href='https://instagram.com/mr.z_ninja' target="_blank"><img alt='AMEEN-SER' src='https://img.shields.io/badge/-AMEEN_INT-white?style=for-the-badge&logo=instagram&logoColor=pink'/></a>
+<a href='https://instagram.com/mrboss002_' target="_blank"><img alt='MrBoss002' src='https://img.shields.io/badge/-MrBoss002-white?style=for-the-badge&logo=instagram&logoColor=pink'/></a>
 <br>
 
-<a href='https://wa.me/918943146371?text=Hey🌠!+Want+Help' target="_blank"><img alt='AMEEN-SER' src='https://img.shields.io/badge/-AMEEN_INT-white?style=for-the-badge&logo=whatsapp&logoColor=green'/></a>
+<a href='https://wa.me/918943146371?text=Hey🌠!+Want+Help' target="_blank"><img alt='MrBoss002' src='https://img.shields.io/badge/-AMEEN_INT-white?style=for-the-badge&logo=whatsapp&logoColor=green'/></a>
 <br>
 
-<a href='https://github.com/MrBoss002' target="_blank"><img alt='MrBoss002' src='https://img.shields.io/badge/-AMEEN_INT-white?style=for-the-badge&logo=github&logoColor=black'/></a>
+<a href='https://github.com/MrBoss002' target="_blank"><img alt='MrBoss002' src='https://img.shields.io/badge/-MrBoss002-white?style=for-the-badge&logo=github&logoColor=black'/></a>
 <br>
